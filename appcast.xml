@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Camppurse by Suntrust - Savings App</title>
+        <item>
+            <title>Version 1.1.0</title>
+            <description>Savins Fintech Solution</description>
+            <pubDate>Wednesday, 28 Dec 2018 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.camppurse" sparkle:version="1.1.0" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
